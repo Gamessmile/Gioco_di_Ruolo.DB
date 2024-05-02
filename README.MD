@@ -2,7 +2,7 @@
 <h1>Progetto di database</h1>
 <br><hr>
 
-<h3>Indice e vari collegamenti nella relazione non funzioneranno fino a quando non verrà scaricato il <a href="/Relazione/Gioco_di_Ruolo.pdf">pdf</a>.</h3>
+<h5>Indice e vari collegamenti nella relazione non funzioneranno fino a quando non verrà scaricato il <a href="/Relazione/Gioco_di_Ruolo.pdf">pdf</a>.</h5>
 
   <hr><h4 align="left"><i>Autore: Gamessmile</i></h4><hr>
 <h3 align="right">My Socials</h3>
