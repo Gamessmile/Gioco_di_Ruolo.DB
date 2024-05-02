@@ -11,6 +11,12 @@
   <h4>💠<a href="/Immagini/Schemi/1_Schema Scheletro.png">Schema Scheletro</a></h4>
   <h4>💠<a href="/Immagini/Schemi/2_Schema Intermedio.png">Schema Intermedio</a></h4>
   <h4>💠<a href="/Immagini/Schemi/3_Schema Finale.png">Schema Finale</a></h4>
+  <h3><b>SQL</b></h3>
+  <h4>💠<a href="/SQL/create.sql">Create</a></h4>
+  <h4>💠<a href="/SQL/trigger.sql">Trigger</a></h4>
+  <h4>💠<a href="/SQL/insert.sql">Insert</a></h4>
+  <h4>💠<a href="/SQL/operazioni.sql">Operazioni</a></h4>
+  <h4>💠<a href="/SQL/dump.sql">Dump</a></h4>
   <h3><b>Operazioni</b></h3>
   <h4>💠<a href="/Immagini/Opeerazioni/o1.png">O1</a></h4>
   <h4>💠<a href="/Immagini/Opeerazioni/o2.png">O2</a></h4>
@@ -18,12 +24,7 @@
   <h4>💠<a href="/Immagini/Opeerazioni/o4.png">O4</a></h4>
   <h4>💠<a href="/Immagini/Opeerazioni/o5.png">O5</a></h4>
   <h4>💠<a href="/Immagini/Opeerazioni/o6.png">O6</a></h4>
-  <h3><b>SQL</b></h3>
-  <h4>💠<a href="/SQL/create.sql">Create</a></h4>
-  <h4>💠<a href="/SQL/trigger.sql">Trigger</a></h4>
-  <h4>💠<a href="/SQL/insert.sql">Insert</a></h4>
-  <h4>💠<a href="/SQL/operazioni.sql">Operazioni</a></h4>
-  <h4>💠<a href="/SQL/dump.sql">Dump</a></h4>
+
 
 <br>
 
