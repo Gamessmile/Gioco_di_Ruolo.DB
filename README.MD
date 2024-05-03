@@ -1,7 +1,8 @@
 <html>
 <h1>Progetto di database</h1>
 
-Indice e vari collegamenti nella relazione non funzioneranno fino a quando non verrà scaricato il <a href="/Relazione/Gioco_di_Ruolo.pdf">pdf</a>.
+>[!IMPORTANT]
+>Indice e vari collegamenti nella relazione non funzioneranno fino a quando non verrà scaricato il <a href="/Relazione/Gioco_di_Ruolo.pdf">pdf</a>.
 <h2>🎯Shortcuts</h2>
 <p align="left">
   <b>Schemi</b><br>
@@ -17,12 +18,12 @@ Indice e vari collegamenti nella relazione non funzioneranno fino a quando non v
   💠<a href="/SQL/dump.sql">Dump</a>💠<br>
   <p align="right">
   <b>Operazioni</b><br>
-  <a href="/Immagini/Opeerazioni/Operazione 1/">O1 Aggiunta nuovo Personaggio</a>💠<br>
-  <a href="/Immagini/Opeerazioni/Operazione 2/">O2 Aggiunta nuova Abilità</a>💠<br>
-  <a href="/Immagini/Opeerazioni/Operazione 3/">O3 Aggiunta nuova Arma</a>💠<br>
-  <a href="/Immagini/Opeerazioni/Operazione 4/">O4 Visualizzazione dell’Arma posseduta da più Personaggio</a>💠<br>
-  <a href="/Immagini/Opeerazioni/Operazione 5/">O5 Visualizzazione della Abilità col danno maggiore</a>💠<br>
-  <a href="/Immagini/Opeerazioni/Operazione 6/">O6 Visualizzazione del livello medio dei Personaggio</a>💠
+  <a href="/Immagini/Opeerazioni/Operazione 1/">Aggiunta nuovo Personaggio</a>💠<br>
+  <a href="/Immagini/Opeerazioni/Operazione 2/">Aggiunta nuova Abilità</a>💠<br>
+  <a href="/Immagini/Opeerazioni/Operazione 3/">Aggiunta nuova Arma</a>💠<br>
+  <a href="/Immagini/Opeerazioni/Operazione 4/">Visualizzazione dell’Arma posseduta da più Personaggio</a>💠<br>
+  <a href="/Immagini/Opeerazioni/Operazione 5/">Visualizzazione della Abilità col danno maggiore</a>💠<br>
+  <a href="/Immagini/Opeerazioni/Operazione 6/">Visualizzazione del livello medio dei Personaggio</a>💠
 
 
 <br>
