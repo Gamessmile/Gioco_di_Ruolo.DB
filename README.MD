@@ -17,12 +17,12 @@ Indice e vari collegamenti nella relazione non funzioneranno fino a quando non v
   💠<a href="/SQL/dump.sql">Dump</a>💠<br>
   <p align="right">
   <b>Operazioni</b><br>
-  <a href="/Immagini/Opeerazioni/o1.png">O1</a>💠<br>
-  <a href="/Immagini/Opeerazioni/o2.png">O2</a>💠<br>
-  <a href="/Immagini/Opeerazioni/o3.png">O3</a>💠<br>
-  <a href="/Immagini/Opeerazioni/o4.png">O4</a>💠<br>
-  <a href="/Immagini/Opeerazioni/o5.png">O5</a>💠<br>
-  <a href="/Immagini/Opeerazioni/o6.png">O6</a>💠
+  <a href="/Immagini/Opeerazioni/Operazione 1/">O1 Aggiunta nuovo Personaggio</a>💠<br>
+  <a href="/Immagini/Opeerazioni/Operazione 2/">O2 Aggiunta nuova Abilità</a>💠<br>
+  <a href="/Immagini/Opeerazioni/Operazione 3/">O3 Aggiunta nuova Arma</a>💠<br>
+  <a href="/Immagini/Opeerazioni/Operazione 4/">O4 Visualizzazione dell’Arma posseduta da più Personaggio</a>💠<br>
+  <a href="/Immagini/Opeerazioni/Operazione 5/">O5 Visualizzazione della Abilità col danno maggiore</a>💠<br>
+  <a href="/Immagini/Opeerazioni/Operazione 6/">O6 Visualizzazione del livello medio dei Personaggio</a>💠
 
 
 <br>
