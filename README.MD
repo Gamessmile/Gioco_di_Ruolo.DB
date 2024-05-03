@@ -1,9 +1,9 @@
 <html>
 <h1>Progetto di database</h1>
 
-Database al fine di gestire una sessione in un gioco di ruolo.
+Database al fine di gestire una sessione in un gioco di ruolo.<br>
 Ogni partecipante potrà scegliere cosa fare nella storia, che arma usare e che abilità 
-lanciare.
+lanciare.<br>
 Colui che gestirà il database sarà il Controllore stesso dei nemici e deciderà in che 
 modo essi si approccino alla storia.
 
