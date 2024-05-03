@@ -1,4 +1,4 @@
-<img src="/Immagini/Operazioni/o1.png" width="100" height="100">
+<img src="/Immagini/Operazioni/o1.png" width="400" height="400">
 
 ```
 INSERT INTO Personaggio VALUES
