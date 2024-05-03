@@ -1,4 +1,4 @@
-![Aggiunta nuova Arma](o3.png)
+![Aggiunta nuova Arma](/Immagini/Operazioni/o3.png)
 
 ```
 INSERT INTO Arma VALUES

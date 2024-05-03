@@ -1,4 +1,4 @@
-![Visualizzazione dell’Arma posseduta da più Personaggio](o1.png)
+![Visualizzazione dell’Arma posseduta da più Personaggio](/Immagini/Operazioni/o4.png)
 
 ```
 SELECT arma.nome AS Nome_Arma, COUNT(*) AS Numero_Personaggi_Che_la_usano

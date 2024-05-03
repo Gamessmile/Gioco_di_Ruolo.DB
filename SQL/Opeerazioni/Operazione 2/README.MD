@@ -1,4 +1,4 @@
-![Aggiunta nuova Abilità](o2.png)
+![Aggiunta nuova Abilità](/Immagini/Operazioni/o2.png)
 
 ```
 INSERT INTO Abilita VALUES
