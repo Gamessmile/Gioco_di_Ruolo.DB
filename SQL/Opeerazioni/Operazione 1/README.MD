@@ -1,3 +1,4 @@
+<h1>Aggiunta nuovo Personaggio</h>
 ```
 INSERT INTO Personaggio VALUES
 (10, "Darius", 0, 5, 5);
