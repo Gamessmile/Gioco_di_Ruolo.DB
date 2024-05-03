@@ -1,6 +1,12 @@
 <html>
 <h1>Progetto di database</h1>
 
+Database al fine di gestire una sessione in un gioco di ruolo.
+Ogni partecipante potrà scegliere cosa fare nella storia, che arma usare e che abilità 
+lanciare.
+Colui che gestirà il database sarà il Controllore stesso dei nemici e deciderà in che 
+modo essi si approccino alla storia.
+
 >[!IMPORTANT]
 >Indice e vari collegamenti nella relazione non funzioneranno fino a quando non verrà scaricato il <a href="/Relazione/Gioco_di_Ruolo.pdf">pdf</a>.
 <h2>🎯Shortcuts</h2>
