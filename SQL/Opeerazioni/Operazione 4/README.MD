@@ -1,4 +1,4 @@
-<h1>Visualizzazione dell’Arma posseduta da più Personaggio</h>
+<h1>Visualizzazione dell’Arma posseduta da più Personaggio</h1>
 
 ```
 SELECT arma.nome AS Nome_Arma, COUNT(*) AS Numero_Personaggi_Che_la_usano

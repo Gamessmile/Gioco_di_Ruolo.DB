@@ -1,4 +1,4 @@
-<h1>Visualizzazione del livello medio dei Personaggio</h>
+<h1>Visualizzazione del livello medio dei Personaggio</h1>
 
 ```
 SELECT AVG(personaggio.livello) AS LivelloMedio

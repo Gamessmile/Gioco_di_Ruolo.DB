@@ -1,4 +1,4 @@
-<h1>Visualizzazione della Abilità col danno maggiore</h>
+<h1>Visualizzazione della Abilità col danno maggiore</h1>
 
 ```
 SELECT abilita.nome as Abilità, abilita.danno
