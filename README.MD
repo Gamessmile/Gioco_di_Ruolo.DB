@@ -18,12 +18,12 @@
   💠<a href="/SQL/dump.sql">Dump</a>💠<br>
   <p align="right">
   <b>Operazioni</b><br>
-  <a href="/Immagini/Opeerazioni/Operazione 1/">Aggiunta nuovo Personaggio</a>💠<br>
-  <a href="/Immagini/Opeerazioni/Operazione 2/">Aggiunta nuova Abilità</a>💠<br>
-  <a href="/Immagini/Opeerazioni/Operazione 3/">Aggiunta nuova Arma</a>💠<br>
-  <a href="/Immagini/Opeerazioni/Operazione 4/">Visualizzazione dell’Arma posseduta da più Personaggio</a>💠<br>
-  <a href="/Immagini/Opeerazioni/Operazione 5/">Visualizzazione della Abilità col danno maggiore</a>💠<br>
-  <a href="/Immagini/Opeerazioni/Operazione 6/">Visualizzazione del livello medio dei Personaggio</a>💠
+  <a href="/SQL/Opeerazioni/Operazione 1/">Aggiunta nuovo Personaggio</a>💠<br>
+  <a href="/SQL/Opeerazioni/Operazione 2/">Aggiunta nuova Abilità</a>💠<br>
+  <a href="/SQL/Opeerazioni/Operazione 3/">Aggiunta nuova Arma</a>💠<br>
+  <a href="/SQL/Opeerazioni/Operazione 4/">Visualizzazione dell’Arma posseduta da più Personaggio</a>💠<br>
+  <a href="/SQL/Opeerazioni/Operazione 5/">Visualizzazione della Abilità col danno maggiore</a>💠<br>
+  <a href="/SQL/Opeerazioni/Operazione 6/">Visualizzazione del livello medio dei Personaggio</a>💠
 
 
 <br>
