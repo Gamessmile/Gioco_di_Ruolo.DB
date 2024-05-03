@@ -20,7 +20,6 @@ modo essi si approccino alla storia.
   💠<a href="/SQL/create.sql">Create</a>💠<br>
   💠<a href="/SQL/trigger.sql">Trigger</a>💠<br>
   💠<a href="/SQL/insert.sql">Insert</a>💠<br>
-  💠<a href="/SQL/operazioni.sql">Operazioni</a>💠<br>
   💠<a href="/SQL/dump.sql">Dump</a>💠<br>
   <p align="right">
   <b>Operazioni</b><br>
